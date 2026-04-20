@@ -37,3 +37,538 @@ time="2026-03-05T10:06:52Z" level=info msg=NewConnection DisableClientMultiState
 time="2026-03-05T10:06:52Z" level=info msg=ConnectionClosed connectionID=14
 time="2026-03-05T10:06:52Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=15
 time="2026-03-05T10:06:52Z" level=info msg=ConnectionClosed connectionID=15
+time="2026-03-05T10:09:57Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=16
+time="2026-03-05T10:09:57Z" level=info msg=ConnectionClosed connectionID=16
+time="2026-03-05T10:09:57Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=17
+time="2026-03-05T10:09:57Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=18
+time="2026-03-05T10:09:57Z" level=info msg=ConnectionClosed connectionID=17
+time="2026-03-05T10:09:57Z" level=warning msg="error running query" connectTime="2026-03-05 10:09:57.449218 +0000 GMT m=+187.187251376" connectionDb=intercom_investigations connectionID=18 error="nothing to commit" queryTime="2026-03-05 10:09:57.456574 +0000 GMT m=+187.194607210"
+time="2026-03-05T10:09:58Z" level=info msg=ConnectionClosed connectionID=18
+time="2026-03-05T10:10:07Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=19
+time="2026-03-05T10:10:07Z" level=info msg=ConnectionClosed connectionID=19
+time="2026-03-05T10:10:07Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=20
+time="2026-03-05T10:10:07Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=21
+time="2026-03-05T10:10:07Z" level=info msg=ConnectionClosed connectionID=20
+time="2026-03-05T10:10:07Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:07.479664 +0000 GMT m=+197.217692543" connectionDb=intercom_investigations connectionID=21 error="nothing to commit" queryTime="2026-03-05 10:10:07.487144 +0000 GMT m=+197.225172876"
+time="2026-03-05T10:10:07Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:07.479664 +0000 GMT m=+197.217692543" connectionDb=intercom_investigations connectionID=21 error="nothing to commit" queryTime="2026-03-05 10:10:07.576203 +0000 GMT m=+197.314231501"
+time="2026-03-05T10:10:07Z" level=info msg=ConnectionClosed connectionID=21
+time="2026-03-05T10:10:07Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=22
+time="2026-03-05T10:10:07Z" level=info msg=ConnectionClosed connectionID=22
+time="2026-03-05T10:10:07Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=23
+time="2026-03-05T10:10:07Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=24
+time="2026-03-05T10:10:07Z" level=info msg=ConnectionClosed connectionID=23
+time="2026-03-05T10:10:07Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:07.70191 +0000 GMT m=+197.439939085" connectionDb=intercom_investigations connectionID=24 error="nothing to commit" queryTime="2026-03-05 10:10:07.709589 +0000 GMT m=+197.447618210"
+time="2026-03-05T10:10:07Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:07.70191 +0000 GMT m=+197.439939085" connectionDb=intercom_investigations connectionID=24 error="nothing to commit" queryTime="2026-03-05 10:10:07.795058 +0000 GMT m=+197.533086501"
+time="2026-03-05T10:10:07Z" level=info msg=ConnectionClosed connectionID=24
+time="2026-03-05T10:10:07Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=25
+time="2026-03-05T10:10:07Z" level=info msg=ConnectionClosed connectionID=25
+time="2026-03-05T10:10:07Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=26
+time="2026-03-05T10:10:07Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=27
+time="2026-03-05T10:10:07Z" level=info msg=ConnectionClosed connectionID=26
+time="2026-03-05T10:10:07Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:07.894461 +0000 GMT m=+197.632489835" connectionDb=intercom_investigations connectionID=27 error="nothing to commit" queryTime="2026-03-05 10:10:07.902503 +0000 GMT m=+197.640531751"
+time="2026-03-05T10:10:07Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:07.894461 +0000 GMT m=+197.632489835" connectionDb=intercom_investigations connectionID=27 error="nothing to commit" queryTime="2026-03-05 10:10:07.986005 +0000 GMT m=+197.724034001"
+time="2026-03-05T10:10:08Z" level=info msg=ConnectionClosed connectionID=27
+time="2026-03-05T10:10:08Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=28
+time="2026-03-05T10:10:08Z" level=info msg=ConnectionClosed connectionID=28
+time="2026-03-05T10:10:08Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=29
+time="2026-03-05T10:10:08Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=30
+time="2026-03-05T10:10:08Z" level=info msg=ConnectionClosed connectionID=29
+time="2026-03-05T10:10:08Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:08.11695 +0000 GMT m=+197.854978251" connectionDb=intercom_investigations connectionID=30 error="nothing to commit" queryTime="2026-03-05 10:10:08.124457 +0000 GMT m=+197.862485835"
+time="2026-03-05T10:10:08Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:08.11695 +0000 GMT m=+197.854978251" connectionDb=intercom_investigations connectionID=30 error="nothing to commit" queryTime="2026-03-05 10:10:08.208893 +0000 GMT m=+197.946921168"
+time="2026-03-05T10:10:08Z" level=info msg=ConnectionClosed connectionID=30
+time="2026-03-05T10:10:08Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=31
+time="2026-03-05T10:10:08Z" level=info msg=ConnectionClosed connectionID=31
+time="2026-03-05T10:10:08Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=32
+time="2026-03-05T10:10:08Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=33
+time="2026-03-05T10:10:08Z" level=info msg=ConnectionClosed connectionID=32
+time="2026-03-05T10:10:08Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:08.338811 +0000 GMT m=+198.076839168" connectionDb=intercom_investigations connectionID=33 error="nothing to commit" queryTime="2026-03-05 10:10:08.346561 +0000 GMT m=+198.084589835"
+time="2026-03-05T10:10:08Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:08.338811 +0000 GMT m=+198.076839168" connectionDb=intercom_investigations connectionID=33 error="nothing to commit" queryTime="2026-03-05 10:10:08.432884 +0000 GMT m=+198.170912960"
+time="2026-03-05T10:10:08Z" level=info msg=ConnectionClosed connectionID=33
+time="2026-03-05T10:10:08Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=34
+time="2026-03-05T10:10:08Z" level=info msg=ConnectionClosed connectionID=34
+time="2026-03-05T10:10:08Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=35
+time="2026-03-05T10:10:08Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=36
+time="2026-03-05T10:10:08Z" level=info msg=ConnectionClosed connectionID=35
+time="2026-03-05T10:10:08Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:08.56045 +0000 GMT m=+198.298478126" connectionDb=intercom_investigations connectionID=36 error="nothing to commit" queryTime="2026-03-05 10:10:08.566986 +0000 GMT m=+198.305014293"
+time="2026-03-05T10:10:08Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:08.56045 +0000 GMT m=+198.298478126" connectionDb=intercom_investigations connectionID=36 error="nothing to commit" queryTime="2026-03-05 10:10:08.647426 +0000 GMT m=+198.385454626"
+time="2026-03-05T10:10:08Z" level=info msg=ConnectionClosed connectionID=36
+time="2026-03-05T10:10:08Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=37
+time="2026-03-05T10:10:08Z" level=info msg=ConnectionClosed connectionID=37
+time="2026-03-05T10:10:08Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=38
+time="2026-03-05T10:10:08Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=39
+time="2026-03-05T10:10:08Z" level=info msg=ConnectionClosed connectionID=38
+time="2026-03-05T10:10:08Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:08.772676 +0000 GMT m=+198.510704751" connectionDb=intercom_investigations connectionID=39 error="nothing to commit" queryTime="2026-03-05 10:10:08.780205 +0000 GMT m=+198.518233793"
+time="2026-03-05T10:10:08Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:08.772676 +0000 GMT m=+198.510704751" connectionDb=intercom_investigations connectionID=39 error="nothing to commit" queryTime="2026-03-05 10:10:08.86757 +0000 GMT m=+198.605598543"
+time="2026-03-05T10:10:08Z" level=info msg=ConnectionClosed connectionID=39
+time="2026-03-05T10:10:08Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=40
+time="2026-03-05T10:10:08Z" level=info msg=ConnectionClosed connectionID=40
+time="2026-03-05T10:10:08Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=41
+time="2026-03-05T10:10:08Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=42
+time="2026-03-05T10:10:08Z" level=info msg=ConnectionClosed connectionID=41
+time="2026-03-05T10:10:08Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:08.980155 +0000 GMT m=+198.718183710" connectionDb=intercom_investigations connectionID=42 error="nothing to commit" queryTime="2026-03-05 10:10:08.98782 +0000 GMT m=+198.725848376"
+time="2026-03-05T10:10:09Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:08.980155 +0000 GMT m=+198.718183710" connectionDb=intercom_investigations connectionID=42 error="nothing to commit" queryTime="2026-03-05 10:10:09.074253 +0000 GMT m=+198.812281335"
+time="2026-03-05T10:10:09Z" level=info msg=ConnectionClosed connectionID=42
+time="2026-03-05T10:10:09Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=43
+time="2026-03-05T10:10:09Z" level=info msg=ConnectionClosed connectionID=43
+time="2026-03-05T10:10:09Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=44
+time="2026-03-05T10:10:09Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=45
+time="2026-03-05T10:10:09Z" level=info msg=ConnectionClosed connectionID=44
+time="2026-03-05T10:10:09Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:09.191023 +0000 GMT m=+198.929051710" connectionDb=intercom_investigations connectionID=45 error="nothing to commit" queryTime="2026-03-05 10:10:09.198727 +0000 GMT m=+198.936755168"
+time="2026-03-05T10:10:09Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:09.191023 +0000 GMT m=+198.929051710" connectionDb=intercom_investigations connectionID=45 error="nothing to commit" queryTime="2026-03-05 10:10:09.279102 +0000 GMT m=+199.017129710"
+time="2026-03-05T10:10:09Z" level=info msg=ConnectionClosed connectionID=45
+time="2026-03-05T10:10:09Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=46
+time="2026-03-05T10:10:09Z" level=info msg=ConnectionClosed connectionID=46
+time="2026-03-05T10:10:09Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=47
+time="2026-03-05T10:10:09Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=48
+time="2026-03-05T10:10:09Z" level=info msg=ConnectionClosed connectionID=47
+time="2026-03-05T10:10:09Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:09.393435 +0000 GMT m=+199.131462960" connectionDb=intercom_investigations connectionID=48 error="nothing to commit" queryTime="2026-03-05 10:10:09.400938 +0000 GMT m=+199.138965710"
+time="2026-03-05T10:10:09Z" level=warning msg="error running query" connectTime="2026-03-05 10:10:09.393435 +0000 GMT m=+199.131462960" connectionDb=intercom_investigations connectionID=48 error="nothing to commit" queryTime="2026-03-05 10:10:09.487174 +0000 GMT m=+199.225202376"
+time="2026-03-05T10:10:09Z" level=info msg=ConnectionClosed connectionID=48
+time="2026-03-05T10:36:52Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=49
+time="2026-03-05T10:36:52Z" level=info msg=ConnectionClosed connectionID=49
+time="2026-03-05T10:36:52Z" level=info msg="Server closing listener. No longer accepting connections."
+time="2026-03-05T10:36:52Z" level=info msg="stats stopped: context canceled"
+Starting server with Config HP="127.0.0.1:3307"|T="28800000"|R="false"|L="info"
+time="2026-03-06T18:55:52Z" level=info msg="Server ready. Accepting connections."
+time="2026-03-06T18:55:52Z" level=warning msg="secure_file_priv is set to \"\", which is insecure."
+time="2026-03-06T18:55:52Z" level=warning msg="Any user with GRANT FILE privileges will be able to read any file which the sql-server process can read."
+time="2026-03-06T18:55:52Z" level=warning msg="Please consider restarting the server with secure_file_priv set to a safe (or non-existent) directory."
+time="2026-03-06T18:55:52Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=1
+time="2026-03-06T18:55:52Z" level=info msg=ConnectionClosed connectionID=1
+time="2026-03-06T18:55:52Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=2
+time="2026-03-06T18:55:52Z" level=info msg=ConnectionClosed connectionID=2
+time="2026-03-06T18:55:52Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=3
+time="2026-03-06T18:55:52Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=4
+time="2026-03-06T18:55:52Z" level=info msg=ConnectionClosed connectionID=3
+time="2026-03-06T18:55:52Z" level=info msg=ConnectionClosed connectionID=4
+time="2026-03-06T18:55:53Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=5
+time="2026-03-06T18:55:53Z" level=info msg=ConnectionClosed connectionID=5
+time="2026-03-06T18:55:53Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=6
+time="2026-03-06T18:55:53Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=7
+time="2026-03-06T18:55:53Z" level=info msg=ConnectionClosed connectionID=6
+time="2026-03-06T18:55:53Z" level=info msg=ConnectionClosed connectionID=7
+time="2026-03-06T20:17:22Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=8
+time="2026-03-06T20:17:22Z" level=info msg=ConnectionClosed connectionID=8
+time="2026-03-06T20:17:22Z" level=info msg="Server closing listener. No longer accepting connections."
+time="2026-03-06T20:17:22Z" level=info msg="stats stopped: context canceled"
+Starting server with Config HP="127.0.0.1:3307"|T="28800000"|R="false"|L="info"
+time="2026-03-15T23:53:22Z" level=info msg="Server ready. Accepting connections."
+time="2026-03-15T23:53:22Z" level=warning msg="secure_file_priv is set to \"\", which is insecure."
+time="2026-03-15T23:53:22Z" level=warning msg="Any user with GRANT FILE privileges will be able to read any file which the sql-server process can read."
+time="2026-03-15T23:53:22Z" level=warning msg="Please consider restarting the server with secure_file_priv set to a safe (or non-existent) directory."
+time="2026-03-15T23:53:23Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=1
+time="2026-03-15T23:53:23Z" level=info msg=ConnectionClosed connectionID=1
+time="2026-03-15T23:53:23Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=2
+time="2026-03-15T23:53:23Z" level=info msg=ConnectionClosed connectionID=2
+time="2026-03-15T23:53:23Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=3
+time="2026-03-15T23:53:23Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=4
+time="2026-03-15T23:53:23Z" level=info msg=ConnectionClosed connectionID=3
+time="2026-03-15T23:53:23Z" level=warning msg="error running query" connectTime="2026-03-15 23:53:23.261889 +0000 GMT m=+0.511225501" connectionDb=intercom_investigations connectionID=4 error="nothing to commit" queryTime="2026-03-15 23:53:23.273807 +0000 GMT m=+0.523143751"
+time="2026-03-15T23:53:25Z" level=info msg=ConnectionClosed connectionID=4
+time="2026-03-15T23:53:55Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=5
+time="2026-03-15T23:53:55Z" level=info msg=ConnectionClosed connectionID=5
+time="2026-03-15T23:53:55Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=6
+time="2026-03-15T23:53:55Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=7
+time="2026-03-15T23:53:55Z" level=info msg=ConnectionClosed connectionID=6
+time="2026-03-15T23:53:55Z" level=warning msg="error running query" connectTime="2026-03-15 23:53:55.836065 +0000 GMT m=+33.085358709" connectionDb=intercom_investigations connectionID=7 error="nothing to commit" queryTime="2026-03-15 23:53:55.842519 +0000 GMT m=+33.091812709"
+time="2026-03-15T23:53:55Z" level=warning msg="error running query" connectTime="2026-03-15 23:53:55.836065 +0000 GMT m=+33.085358709" connectionDb=intercom_investigations connectionID=7 error="nothing to commit" queryTime="2026-03-15 23:53:55.960153 +0000 GMT m=+33.209447209"
+time="2026-03-15T23:53:56Z" level=info msg=ConnectionClosed connectionID=7
+time="2026-03-15T23:53:56Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=8
+time="2026-03-15T23:53:56Z" level=info msg=ConnectionClosed connectionID=8
+time="2026-03-15T23:53:56Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=9
+time="2026-03-15T23:53:56Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=10
+time="2026-03-15T23:53:56Z" level=info msg=ConnectionClosed connectionID=9
+time="2026-03-15T23:53:56Z" level=warning msg="error running query" connectTime="2026-03-15 23:53:56.736666 +0000 GMT m=+33.985961334" connectionDb=intercom_investigations connectionID=10 error="nothing to commit" queryTime="2026-03-15 23:53:56.743273 +0000 GMT m=+33.992568043"
+time="2026-03-15T23:53:56Z" level=warning msg="error running query" connectTime="2026-03-15 23:53:56.736666 +0000 GMT m=+33.985961334" connectionDb=intercom_investigations connectionID=10 error="nothing to commit" queryTime="2026-03-15 23:53:56.860274 +0000 GMT m=+34.109569251"
+time="2026-03-15T23:53:56Z" level=info msg=ConnectionClosed connectionID=10
+time="2026-03-15T23:53:57Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=11
+time="2026-03-15T23:53:57Z" level=info msg=ConnectionClosed connectionID=11
+time="2026-03-15T23:53:57Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=12
+time="2026-03-15T23:53:57Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=13
+time="2026-03-15T23:53:57Z" level=info msg=ConnectionClosed connectionID=12
+time="2026-03-15T23:53:57Z" level=warning msg="error running query" connectTime="2026-03-15 23:53:57.636719 +0000 GMT m=+34.886015293" connectionDb=intercom_investigations connectionID=13 error="nothing to commit" queryTime="2026-03-15 23:53:57.64394 +0000 GMT m=+34.893236751"
+time="2026-03-15T23:53:57Z" level=warning msg="error running query" connectTime="2026-03-15 23:53:57.636719 +0000 GMT m=+34.886015293" connectionDb=intercom_investigations connectionID=13 error="nothing to commit" queryTime="2026-03-15 23:53:57.747404 +0000 GMT m=+34.996700626"
+time="2026-03-15T23:53:57Z" level=info msg=ConnectionClosed connectionID=13
+time="2026-03-15T23:53:58Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=14
+time="2026-03-15T23:53:58Z" level=info msg=ConnectionClosed connectionID=14
+time="2026-03-15T23:53:58Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=15
+time="2026-03-15T23:53:58Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=16
+time="2026-03-15T23:53:58Z" level=info msg=ConnectionClosed connectionID=15
+time="2026-03-15T23:53:58Z" level=warning msg="error running query" connectTime="2026-03-15 23:53:58.05876 +0000 GMT m=+35.308056751" connectionDb=intercom_investigations connectionID=16 error="nothing to commit" queryTime="2026-03-15 23:53:58.065867 +0000 GMT m=+35.315164293"
+time="2026-03-15T23:53:58Z" level=warning msg="error running query" connectTime="2026-03-15 23:53:58.05876 +0000 GMT m=+35.308056751" connectionDb=intercom_investigations connectionID=16 error="nothing to commit" queryTime="2026-03-15 23:53:58.175144 +0000 GMT m=+35.424441334"
+time="2026-03-15T23:53:58Z" level=info msg=ConnectionClosed connectionID=16
+time="2026-03-15T23:54:01Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=17
+time="2026-03-15T23:54:01Z" level=info msg=ConnectionClosed connectionID=17
+time="2026-03-15T23:54:01Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=18
+time="2026-03-15T23:54:01Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=19
+time="2026-03-15T23:54:01Z" level=info msg=ConnectionClosed connectionID=18
+time="2026-03-15T23:54:01Z" level=info msg=ConnectionClosed connectionID=19
+time="2026-03-15T23:54:06Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=20
+time="2026-03-15T23:54:06Z" level=info msg=ConnectionClosed connectionID=20
+time="2026-03-15T23:54:06Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=21
+time="2026-03-15T23:54:06Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=22
+time="2026-03-15T23:54:06Z" level=info msg=ConnectionClosed connectionID=21
+time="2026-03-15T23:54:06Z" level=info msg=ConnectionClosed connectionID=22
+time="2026-03-15T23:54:09Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=23
+time="2026-03-15T23:54:09Z" level=info msg=ConnectionClosed connectionID=23
+time="2026-03-15T23:54:09Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=24
+time="2026-03-15T23:54:09Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=25
+time="2026-03-15T23:54:09Z" level=info msg=ConnectionClosed connectionID=24
+time="2026-03-15T23:54:10Z" level=info msg=ConnectionClosed connectionID=25
+time="2026-03-15T23:56:37Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=26
+time="2026-03-15T23:56:37Z" level=info msg=ConnectionClosed connectionID=26
+time="2026-03-15T23:56:37Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=27
+time="2026-03-15T23:56:37Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=28
+time="2026-03-15T23:56:37Z" level=info msg=ConnectionClosed connectionID=27
+time="2026-03-15T23:56:37Z" level=warning msg="error running query" connectTime="2026-03-15 23:56:37.247828 +0000 GMT m=+194.496099834" connectionDb=intercom_investigations connectionID=28 error="nothing to commit" queryTime="2026-03-15 23:56:37.255165 +0000 GMT m=+194.503437251"
+time="2026-03-15T23:56:37Z" level=info msg=ConnectionClosed connectionID=28
+time="2026-03-15T23:56:37Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=29
+time="2026-03-15T23:56:37Z" level=info msg=ConnectionClosed connectionID=29
+time="2026-03-15T23:56:37Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=30
+time="2026-03-15T23:56:37Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=31
+time="2026-03-15T23:56:37Z" level=info msg=ConnectionClosed connectionID=30
+time="2026-03-15T23:56:37Z" level=warning msg="error running query" connectTime="2026-03-15 23:56:37.385096 +0000 GMT m=+194.633367459" connectionDb=intercom_investigations connectionID=31 error="nothing to commit" queryTime="2026-03-15 23:56:37.396001 +0000 GMT m=+194.644271876"
+time="2026-03-15T23:56:37Z" level=info msg=ConnectionClosed connectionID=31
+time="2026-03-15T23:56:37Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=32
+time="2026-03-15T23:56:37Z" level=info msg=ConnectionClosed connectionID=32
+time="2026-03-15T23:56:37Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=33
+time="2026-03-15T23:56:37Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=34
+time="2026-03-15T23:56:37Z" level=info msg=ConnectionClosed connectionID=33
+time="2026-03-15T23:56:37Z" level=warning msg="error running query" connectTime="2026-03-15 23:56:37.546962 +0000 GMT m=+194.795232001" connectionDb=intercom_investigations connectionID=34 error="nothing to commit" queryTime="2026-03-15 23:56:37.554105 +0000 GMT m=+194.802374626"
+time="2026-03-15T23:56:37Z" level=info msg=ConnectionClosed connectionID=34
+time="2026-03-16T00:23:25Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=35
+time="2026-03-16T00:23:25Z" level=info msg=ConnectionClosed connectionID=35
+time="2026-03-16T00:23:25Z" level=info msg="Server closing listener. No longer accepting connections."
+time="2026-03-16T00:23:25Z" level=info msg="stats stopped: context canceled"
+Starting server with Config HP="127.0.0.1:3307"|T="28800000"|R="false"|L="info"
+time="2026-03-16T01:17:25Z" level=info msg="Server ready. Accepting connections."
+time="2026-03-16T01:17:25Z" level=warning msg="secure_file_priv is set to \"\", which is insecure."
+time="2026-03-16T01:17:25Z" level=warning msg="Any user with GRANT FILE privileges will be able to read any file which the sql-server process can read."
+time="2026-03-16T01:17:25Z" level=warning msg="Please consider restarting the server with secure_file_priv set to a safe (or non-existent) directory."
+time="2026-03-16T01:17:25Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=1
+time="2026-03-16T01:17:25Z" level=info msg=ConnectionClosed connectionID=1
+time="2026-03-16T01:17:25Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=2
+time="2026-03-16T01:17:25Z" level=info msg=ConnectionClosed connectionID=2
+time="2026-03-16T01:17:25Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=3
+time="2026-03-16T01:17:25Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=4
+time="2026-03-16T01:17:25Z" level=info msg=ConnectionClosed connectionID=3
+time="2026-03-16T01:17:25Z" level=warning msg="error running query" connectTime="2026-03-16 01:17:25.484048 +0000 GMT m=+0.497979543" connectionDb=intercom_investigations connectionID=4 error="nothing to commit" queryTime="2026-03-16 01:17:25.495961 +0000 GMT m=+0.509892460"
+time="2026-03-16T01:17:26Z" level=info msg=ConnectionClosed connectionID=4
+time="2026-03-16T01:17:26Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=5
+time="2026-03-16T01:17:26Z" level=info msg=ConnectionClosed connectionID=5
+time="2026-03-16T01:17:26Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=6
+time="2026-03-16T01:17:26Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=7
+time="2026-03-16T01:17:26Z" level=info msg=ConnectionClosed connectionID=6
+time="2026-03-16T01:17:26Z" level=warning msg="error running query" connectTime="2026-03-16 01:17:26.889304 +0000 GMT m=+1.903223751" connectionDb=intercom_investigations connectionID=7 error="nothing to commit" queryTime="2026-03-16 01:17:26.922496 +0000 GMT m=+1.936415668"
+time="2026-03-16T01:17:27Z" level=info msg=ConnectionClosed connectionID=7
+time="2026-03-16T01:17:27Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=8
+time="2026-03-16T01:17:27Z" level=info msg=ConnectionClosed connectionID=8
+time="2026-03-16T01:17:27Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=9
+time="2026-03-16T01:17:27Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=10
+time="2026-03-16T01:17:27Z" level=info msg=ConnectionClosed connectionID=9
+time="2026-03-16T01:17:27Z" level=warning msg="error running query" connectTime="2026-03-16 01:17:27.355743 +0000 GMT m=+2.369659126" connectionDb=intercom_investigations connectionID=10 error="nothing to commit" queryTime="2026-03-16 01:17:27.364871 +0000 GMT m=+2.378787043"
+time="2026-03-16T01:17:27Z" level=info msg=ConnectionClosed connectionID=10
+time="2026-03-16T01:47:27Z" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=11
+time="2026-03-16T01:47:27Z" level=info msg=ConnectionClosed connectionID=11
+time="2026-03-16T01:47:27Z" level=info msg="Server closing listener. No longer accepting connections."
+time="2026-03-16T01:47:27Z" level=info msg="stats stopped: context canceled"
+Starting server with Config HP="127.0.0.1:3307"|T="28800000"|R="false"|L="info"
+time="2026-04-15T10:31:03+01:00" level=info msg="Server ready. Accepting connections."
+time="2026-04-15T10:31:03+01:00" level=warning msg="secure_file_priv is set to \"\", which is insecure."
+time="2026-04-15T10:31:03+01:00" level=warning msg="Any user with GRANT FILE privileges will be able to read any file which the sql-server process can read."
+time="2026-04-15T10:31:03+01:00" level=warning msg="Please consider restarting the server with secure_file_priv set to a safe (or non-existent) directory."
+time="2026-04-15T10:31:04+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=1
+time="2026-04-15T10:31:04+01:00" level=info msg=ConnectionClosed connectionID=1
+time="2026-04-15T10:31:04+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=2
+time="2026-04-15T10:31:04+01:00" level=info msg=ConnectionClosed connectionID=2
+time="2026-04-15T10:31:04+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=3
+time="2026-04-15T10:31:04+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=4
+time="2026-04-15T10:31:04+01:00" level=info msg=ConnectionClosed connectionID=3
+time="2026-04-15T10:31:04+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:04.245279 +0100 BST m=+0.497590043" connectionDb=intercom_investigations connectionID=4 error="nothing to commit" queryTime="2026-04-15 10:31:04.253476 +0100 BST m=+0.505787501"
+time="2026-04-15T10:31:04+01:00" level=info msg=ConnectionClosed connectionID=4
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=5
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=5
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=6
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=7
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=6
+time="2026-04-15T10:31:21+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:21.029116 +0100 BST m=+17.281469084" connectionDb=intercom_investigations connectionID=7 error="nothing to commit" queryTime="2026-04-15 10:31:21.036616 +0100 BST m=+17.288968293"
+time="2026-04-15T10:31:21+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:21.029116 +0100 BST m=+17.281469084" connectionDb=intercom_investigations connectionID=7 error="nothing to commit" queryTime="2026-04-15 10:31:21.16435 +0100 BST m=+17.416702834"
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=7
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=8
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=8
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=9
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=10
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=9
+time="2026-04-15T10:31:21+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:21.209681 +0100 BST m=+17.462034626" connectionDb=intercom_investigations connectionID=10 error="nothing to commit" queryTime="2026-04-15 10:31:21.21663 +0100 BST m=+17.468983543"
+time="2026-04-15T10:31:21+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:21.209681 +0100 BST m=+17.462034626" connectionDb=intercom_investigations connectionID=10 error="nothing to commit" queryTime="2026-04-15 10:31:21.359193 +0100 BST m=+17.611546293"
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=10
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=11
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=11
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=12
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=13
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=12
+time="2026-04-15T10:31:21+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:21.410846 +0100 BST m=+17.663199668" connectionDb=intercom_investigations connectionID=13 error="nothing to commit" queryTime="2026-04-15 10:31:21.418611 +0100 BST m=+17.670964876"
+time="2026-04-15T10:31:21+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:21.410846 +0100 BST m=+17.663199668" connectionDb=intercom_investigations connectionID=13 error="nothing to commit" queryTime="2026-04-15 10:31:21.573433 +0100 BST m=+17.825787293"
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=13
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=14
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=14
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=15
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=16
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=15
+time="2026-04-15T10:31:21+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:21.620701 +0100 BST m=+17.873055709" connectionDb=intercom_investigations connectionID=16 error="nothing to commit" queryTime="2026-04-15 10:31:21.627476 +0100 BST m=+17.879829751"
+time="2026-04-15T10:31:21+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:21.620701 +0100 BST m=+17.873055709" connectionDb=intercom_investigations connectionID=16 error="nothing to commit" queryTime="2026-04-15 10:31:21.763118 +0100 BST m=+18.015472168"
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=16
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=17
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=17
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=18
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=19
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=18
+time="2026-04-15T10:31:21+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:21.804811 +0100 BST m=+18.057165334" connectionDb=intercom_investigations connectionID=19 error="nothing to commit" queryTime="2026-04-15 10:31:21.81157 +0100 BST m=+18.063925126"
+time="2026-04-15T10:31:21+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:21.804811 +0100 BST m=+18.057165334" connectionDb=intercom_investigations connectionID=19 error="nothing to commit" queryTime="2026-04-15 10:31:21.939533 +0100 BST m=+18.191887918"
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=19
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=20
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=20
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=21
+time="2026-04-15T10:31:21+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=22
+time="2026-04-15T10:31:21+01:00" level=info msg=ConnectionClosed connectionID=21
+time="2026-04-15T10:31:21+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:21.990255 +0100 BST m=+18.242610334" connectionDb=intercom_investigations connectionID=22 error="nothing to commit" queryTime="2026-04-15 10:31:21.998072 +0100 BST m=+18.250427584"
+time="2026-04-15T10:31:22+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:21.990255 +0100 BST m=+18.242610334" connectionDb=intercom_investigations connectionID=22 error="nothing to commit" queryTime="2026-04-15 10:31:22.157495 +0100 BST m=+18.409850709"
+time="2026-04-15T10:31:22+01:00" level=info msg=ConnectionClosed connectionID=22
+time="2026-04-15T10:31:22+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=23
+time="2026-04-15T10:31:22+01:00" level=info msg=ConnectionClosed connectionID=23
+time="2026-04-15T10:31:22+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=24
+time="2026-04-15T10:31:22+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=25
+time="2026-04-15T10:31:22+01:00" level=info msg=ConnectionClosed connectionID=24
+time="2026-04-15T10:31:22+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:22.208139 +0100 BST m=+18.460494668" connectionDb=intercom_investigations connectionID=25 error="nothing to commit" queryTime="2026-04-15 10:31:22.215038 +0100 BST m=+18.467393376"
+time="2026-04-15T10:31:22+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:22.208139 +0100 BST m=+18.460494668" connectionDb=intercom_investigations connectionID=25 error="nothing to commit" queryTime="2026-04-15 10:31:22.364392 +0100 BST m=+18.616748293"
+time="2026-04-15T10:31:22+01:00" level=info msg=ConnectionClosed connectionID=25
+time="2026-04-15T10:31:22+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=26
+time="2026-04-15T10:31:22+01:00" level=info msg=ConnectionClosed connectionID=26
+time="2026-04-15T10:31:22+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=27
+time="2026-04-15T10:31:22+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=28
+time="2026-04-15T10:31:22+01:00" level=info msg=ConnectionClosed connectionID=27
+time="2026-04-15T10:31:22+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:22.418372 +0100 BST m=+18.670728334" connectionDb=intercom_investigations connectionID=28 error="nothing to commit" queryTime="2026-04-15 10:31:22.424868 +0100 BST m=+18.677223876"
+time="2026-04-15T10:31:22+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:22.418372 +0100 BST m=+18.670728334" connectionDb=intercom_investigations connectionID=28 error="nothing to commit" queryTime="2026-04-15 10:31:22.560366 +0100 BST m=+18.812722751"
+time="2026-04-15T10:31:22+01:00" level=info msg=ConnectionClosed connectionID=28
+time="2026-04-15T10:31:22+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=29
+time="2026-04-15T10:31:22+01:00" level=info msg=ConnectionClosed connectionID=29
+time="2026-04-15T10:31:22+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=30
+time="2026-04-15T10:31:22+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=31
+time="2026-04-15T10:31:22+01:00" level=info msg=ConnectionClosed connectionID=30
+time="2026-04-15T10:31:22+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:22.601927 +0100 BST m=+18.854283918" connectionDb=intercom_investigations connectionID=31 error="nothing to commit" queryTime="2026-04-15 10:31:22.608967 +0100 BST m=+18.861324126"
+time="2026-04-15T10:31:22+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:22.601927 +0100 BST m=+18.854283918" connectionDb=intercom_investigations connectionID=31 error="nothing to commit" queryTime="2026-04-15 10:31:22.747433 +0100 BST m=+18.999790418"
+time="2026-04-15T10:31:22+01:00" level=info msg=ConnectionClosed connectionID=31
+time="2026-04-15T10:31:22+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=32
+time="2026-04-15T10:31:22+01:00" level=info msg=ConnectionClosed connectionID=32
+time="2026-04-15T10:31:22+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=33
+time="2026-04-15T10:31:22+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=34
+time="2026-04-15T10:31:22+01:00" level=info msg=ConnectionClosed connectionID=33
+time="2026-04-15T10:31:22+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:22.804162 +0100 BST m=+19.056519418" connectionDb=intercom_investigations connectionID=34 error="nothing to commit" queryTime="2026-04-15 10:31:22.810955 +0100 BST m=+19.063311751"
+time="2026-04-15T10:31:22+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:31:22.804162 +0100 BST m=+19.056519418" connectionDb=intercom_investigations connectionID=34 error="nothing to commit" queryTime="2026-04-15 10:31:22.975343 +0100 BST m=+19.227700709"
+time="2026-04-15T10:31:22+01:00" level=info msg=ConnectionClosed connectionID=34
+time="2026-04-15T10:41:37+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=35
+time="2026-04-15T10:41:37+01:00" level=info msg=ConnectionClosed connectionID=35
+time="2026-04-15T10:41:37+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=36
+time="2026-04-15T10:41:37+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=37
+time="2026-04-15T10:41:37+01:00" level=info msg=ConnectionClosed connectionID=36
+time="2026-04-15T10:41:37+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:37.965365 +0100 BST m=+634.208175501" connectionDb=intercom_investigations connectionID=37 error="nothing to commit" queryTime="2026-04-15 10:41:37.977249 +0100 BST m=+634.220060001"
+time="2026-04-15T10:41:38+01:00" level=info msg=ConnectionClosed connectionID=37
+time="2026-04-15T10:41:49+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=38
+time="2026-04-15T10:41:49+01:00" level=info msg=ConnectionClosed connectionID=38
+time="2026-04-15T10:41:49+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=39
+time="2026-04-15T10:41:49+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=40
+time="2026-04-15T10:41:49+01:00" level=info msg=ConnectionClosed connectionID=39
+time="2026-04-15T10:41:49+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:49.011698 +0100 BST m=+645.254498709" connectionDb=intercom_investigations connectionID=40 error="nothing to commit" queryTime="2026-04-15 10:41:49.019329 +0100 BST m=+645.262129751"
+time="2026-04-15T10:41:49+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:49.011698 +0100 BST m=+645.254498709" connectionDb=intercom_investigations connectionID=40 error="nothing to commit" queryTime="2026-04-15 10:41:49.180176 +0100 BST m=+645.422976876"
+time="2026-04-15T10:41:49+01:00" level=info msg=ConnectionClosed connectionID=40
+time="2026-04-15T10:41:49+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=41
+time="2026-04-15T10:41:49+01:00" level=info msg=ConnectionClosed connectionID=41
+time="2026-04-15T10:41:49+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=42
+time="2026-04-15T10:41:49+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=43
+time="2026-04-15T10:41:49+01:00" level=info msg=ConnectionClosed connectionID=42
+time="2026-04-15T10:41:49+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:49.234451 +0100 BST m=+645.477251751" connectionDb=intercom_investigations connectionID=43 error="nothing to commit" queryTime="2026-04-15 10:41:49.241561 +0100 BST m=+645.484362001"
+time="2026-04-15T10:41:49+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:49.234451 +0100 BST m=+645.477251751" connectionDb=intercom_investigations connectionID=43 error="nothing to commit" queryTime="2026-04-15 10:41:49.408105 +0100 BST m=+645.650905293"
+time="2026-04-15T10:41:49+01:00" level=info msg=ConnectionClosed connectionID=43
+time="2026-04-15T10:41:49+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=44
+time="2026-04-15T10:41:49+01:00" level=info msg=ConnectionClosed connectionID=44
+time="2026-04-15T10:41:49+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=45
+time="2026-04-15T10:41:49+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=46
+time="2026-04-15T10:41:49+01:00" level=info msg=ConnectionClosed connectionID=45
+time="2026-04-15T10:41:49+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:49.452718 +0100 BST m=+645.695518376" connectionDb=intercom_investigations connectionID=46 error="nothing to commit" queryTime="2026-04-15 10:41:49.4621 +0100 BST m=+645.704900501"
+time="2026-04-15T10:41:49+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:49.452718 +0100 BST m=+645.695518376" connectionDb=intercom_investigations connectionID=46 error="nothing to commit" queryTime="2026-04-15 10:41:49.622653 +0100 BST m=+645.865453334"
+time="2026-04-15T10:41:49+01:00" level=info msg=ConnectionClosed connectionID=46
+time="2026-04-15T10:41:49+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=47
+time="2026-04-15T10:41:49+01:00" level=info msg=ConnectionClosed connectionID=47
+time="2026-04-15T10:41:49+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=48
+time="2026-04-15T10:41:49+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=49
+time="2026-04-15T10:41:49+01:00" level=info msg=ConnectionClosed connectionID=48
+time="2026-04-15T10:41:49+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:49.678038 +0100 BST m=+645.920838626" connectionDb=intercom_investigations connectionID=49 error="nothing to commit" queryTime="2026-04-15 10:41:49.686244 +0100 BST m=+645.929044543"
+time="2026-04-15T10:41:49+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:49.678038 +0100 BST m=+645.920838626" connectionDb=intercom_investigations connectionID=49 error="nothing to commit" queryTime="2026-04-15 10:41:49.853345 +0100 BST m=+646.096145376"
+time="2026-04-15T10:41:49+01:00" level=info msg=ConnectionClosed connectionID=49
+time="2026-04-15T10:41:49+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=50
+time="2026-04-15T10:41:49+01:00" level=info msg=ConnectionClosed connectionID=50
+time="2026-04-15T10:41:49+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=51
+time="2026-04-15T10:41:49+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=52
+time="2026-04-15T10:41:49+01:00" level=info msg=ConnectionClosed connectionID=51
+time="2026-04-15T10:41:49+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:49.901709 +0100 BST m=+646.144509168" connectionDb=intercom_investigations connectionID=52 error="nothing to commit" queryTime="2026-04-15 10:41:49.908782 +0100 BST m=+646.151582543"
+time="2026-04-15T10:41:50+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:49.901709 +0100 BST m=+646.144509168" connectionDb=intercom_investigations connectionID=52 error="nothing to commit" queryTime="2026-04-15 10:41:50.045047 +0100 BST m=+646.287846793"
+time="2026-04-15T10:41:50+01:00" level=info msg=ConnectionClosed connectionID=52
+time="2026-04-15T10:41:50+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=53
+time="2026-04-15T10:41:50+01:00" level=info msg=ConnectionClosed connectionID=53
+time="2026-04-15T10:41:50+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=54
+time="2026-04-15T10:41:50+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=55
+time="2026-04-15T10:41:50+01:00" level=info msg=ConnectionClosed connectionID=54
+time="2026-04-15T10:41:50+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:50.102366 +0100 BST m=+646.345166293" connectionDb=intercom_investigations connectionID=55 error="nothing to commit" queryTime="2026-04-15 10:41:50.108822 +0100 BST m=+646.351622126"
+time="2026-04-15T10:41:50+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:50.102366 +0100 BST m=+646.345166293" connectionDb=intercom_investigations connectionID=55 error="nothing to commit" queryTime="2026-04-15 10:41:50.259343 +0100 BST m=+646.502143209"
+time="2026-04-15T10:41:50+01:00" level=info msg=ConnectionClosed connectionID=55
+time="2026-04-15T10:41:50+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=56
+time="2026-04-15T10:41:50+01:00" level=info msg=ConnectionClosed connectionID=56
+time="2026-04-15T10:41:50+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=57
+time="2026-04-15T10:41:50+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=58
+time="2026-04-15T10:41:50+01:00" level=info msg=ConnectionClosed connectionID=57
+time="2026-04-15T10:41:50+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:50.3152 +0100 BST m=+646.557999543" connectionDb=intercom_investigations connectionID=58 error="nothing to commit" queryTime="2026-04-15 10:41:50.322774 +0100 BST m=+646.565573459"
+time="2026-04-15T10:41:50+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:50.3152 +0100 BST m=+646.557999543" connectionDb=intercom_investigations connectionID=58 error="nothing to commit" queryTime="2026-04-15 10:41:50.482835 +0100 BST m=+646.725634418"
+time="2026-04-15T10:41:50+01:00" level=info msg=ConnectionClosed connectionID=58
+time="2026-04-15T10:41:50+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=59
+time="2026-04-15T10:41:50+01:00" level=info msg=ConnectionClosed connectionID=59
+time="2026-04-15T10:41:50+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=60
+time="2026-04-15T10:41:50+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=61
+time="2026-04-15T10:41:50+01:00" level=info msg=ConnectionClosed connectionID=60
+time="2026-04-15T10:41:50+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:50.533976 +0100 BST m=+646.776775626" connectionDb=intercom_investigations connectionID=61 error="nothing to commit" queryTime="2026-04-15 10:41:50.541459 +0100 BST m=+646.784258626"
+time="2026-04-15T10:41:50+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:50.533976 +0100 BST m=+646.776775626" connectionDb=intercom_investigations connectionID=61 error="nothing to commit" queryTime="2026-04-15 10:41:50.688413 +0100 BST m=+646.931211959"
+time="2026-04-15T10:41:50+01:00" level=info msg=ConnectionClosed connectionID=61
+time="2026-04-15T10:41:50+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=62
+time="2026-04-15T10:41:50+01:00" level=info msg=ConnectionClosed connectionID=62
+time="2026-04-15T10:41:50+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=63
+time="2026-04-15T10:41:50+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=64
+time="2026-04-15T10:41:50+01:00" level=info msg=ConnectionClosed connectionID=63
+time="2026-04-15T10:41:50+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:50.739998 +0100 BST m=+646.982797209" connectionDb=intercom_investigations connectionID=64 error="nothing to commit" queryTime="2026-04-15 10:41:50.747745 +0100 BST m=+646.990544001"
+time="2026-04-15T10:41:50+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:50.739998 +0100 BST m=+646.982797209" connectionDb=intercom_investigations connectionID=64 error="nothing to commit" queryTime="2026-04-15 10:41:50.908465 +0100 BST m=+647.151263959"
+time="2026-04-15T10:41:50+01:00" level=info msg=ConnectionClosed connectionID=64
+time="2026-04-15T10:41:50+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=65
+time="2026-04-15T10:41:50+01:00" level=info msg=ConnectionClosed connectionID=65
+time="2026-04-15T10:41:50+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=66
+time="2026-04-15T10:41:50+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=67
+time="2026-04-15T10:41:50+01:00" level=info msg=ConnectionClosed connectionID=66
+time="2026-04-15T10:41:50+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:50.953304 +0100 BST m=+647.196103084" connectionDb=intercom_investigations connectionID=67 error="nothing to commit" queryTime="2026-04-15 10:41:50.95998 +0100 BST m=+647.202779626"
+time="2026-04-15T10:41:51+01:00" level=warning msg="error running query" connectTime="2026-04-15 10:41:50.953304 +0100 BST m=+647.196103084" connectionDb=intercom_investigations connectionID=67 error="nothing to commit" queryTime="2026-04-15 10:41:51.118802 +0100 BST m=+647.361600668"
+time="2026-04-15T10:41:51+01:00" level=info msg=ConnectionClosed connectionID=67
+time="2026-04-15T11:01:05+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=68
+time="2026-04-15T11:01:05+01:00" level=info msg=ConnectionClosed connectionID=68
+time="2026-04-15T11:01:05+01:00" level=info msg="Server closing listener. No longer accepting connections."
+time="2026-04-15T11:01:05+01:00" level=info msg="stats stopped: context canceled"
+Starting server with Config HP="127.0.0.1:3307"|T="28800000"|R="false"|L="info"
+time="2026-04-20T12:01:05+01:00" level=info msg="Server ready. Accepting connections."
+time="2026-04-20T12:01:05+01:00" level=warning msg="secure_file_priv is set to \"\", which is insecure."
+time="2026-04-20T12:01:05+01:00" level=warning msg="Any user with GRANT FILE privileges will be able to read any file which the sql-server process can read."
+time="2026-04-20T12:01:05+01:00" level=warning msg="Please consider restarting the server with secure_file_priv set to a safe (or non-existent) directory."
+time="2026-04-20T12:01:05+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=1
+time="2026-04-20T12:01:05+01:00" level=info msg=ConnectionClosed connectionID=1
+time="2026-04-20T12:01:05+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=2
+time="2026-04-20T12:01:05+01:00" level=info msg=ConnectionClosed connectionID=2
+time="2026-04-20T12:01:05+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=3
+time="2026-04-20T12:01:05+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=4
+time="2026-04-20T12:01:05+01:00" level=info msg=ConnectionClosed connectionID=3
+time="2026-04-20T12:01:05+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:05.709613 +0100 BST m=+0.486892334" connectionDb=intercom_investigations connectionID=4 error="nothing to commit" queryTime="2026-04-20 12:01:05.72681 +0100 BST m=+0.504088709"
+time="2026-04-20T12:01:09+01:00" level=info msg=ConnectionClosed connectionID=4
+time="2026-04-20T12:01:29+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=5
+time="2026-04-20T12:01:29+01:00" level=info msg=ConnectionClosed connectionID=5
+time="2026-04-20T12:01:29+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=6
+time="2026-04-20T12:01:29+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=7
+time="2026-04-20T12:01:29+01:00" level=info msg=ConnectionClosed connectionID=6
+time="2026-04-20T12:01:29+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:29.886138 +0100 BST m=+24.663086417" connectionDb=intercom_investigations connectionID=7 error="nothing to commit" queryTime="2026-04-20 12:01:29.902031 +0100 BST m=+24.678978834"
+time="2026-04-20T12:01:30+01:00" level=info msg=ConnectionClosed connectionID=7
+time="2026-04-20T12:01:42+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=8
+time="2026-04-20T12:01:42+01:00" level=info msg=ConnectionClosed connectionID=8
+time="2026-04-20T12:01:42+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=9
+time="2026-04-20T12:01:42+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=10
+time="2026-04-20T12:01:42+01:00" level=info msg=ConnectionClosed connectionID=9
+time="2026-04-20T12:01:42+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:42.469812 +0100 BST m=+37.246588084" connectionDb=intercom_investigations connectionID=10 error="nothing to commit" queryTime="2026-04-20 12:01:42.49558 +0100 BST m=+37.272355251"
+time="2026-04-20T12:01:42+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:42.469812 +0100 BST m=+37.246588084" connectionDb=intercom_investigations connectionID=10 error="nothing to commit" queryTime="2026-04-20 12:01:42.738944 +0100 BST m=+37.515715792"
+time="2026-04-20T12:01:42+01:00" level=info msg=ConnectionClosed connectionID=10
+time="2026-04-20T12:01:43+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=12
+time="2026-04-20T12:01:43+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=11
+time="2026-04-20T12:01:43+01:00" level=info msg=ConnectionClosed connectionID=11
+time="2026-04-20T12:01:43+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=13
+time="2026-04-20T12:01:43+01:00" level=info msg=ConnectionClosed connectionID=12
+time="2026-04-20T12:01:43+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:43.194051 +0100 BST m=+37.970816876" connectionDb=intercom_investigations connectionID=13 error="nothing to commit" queryTime="2026-04-20 12:01:43.245921 +0100 BST m=+38.022686542"
+time="2026-04-20T12:01:43+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:43.194051 +0100 BST m=+37.970816876" connectionDb=intercom_investigations connectionID=13 error="nothing to commit" queryTime="2026-04-20 12:01:43.739017 +0100 BST m=+38.515775667"
+time="2026-04-20T12:01:43+01:00" level=info msg=ConnectionClosed connectionID=13
+time="2026-04-20T12:01:44+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=14
+time="2026-04-20T12:01:44+01:00" level=info msg=ConnectionClosed connectionID=14
+time="2026-04-20T12:01:44+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=15
+time="2026-04-20T12:01:44+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=16
+time="2026-04-20T12:01:44+01:00" level=info msg=ConnectionClosed connectionID=15
+time="2026-04-20T12:01:44+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:44.212031 +0100 BST m=+38.988782709" connectionDb=intercom_investigations connectionID=16 error="nothing to commit" queryTime="2026-04-20 12:01:44.249028 +0100 BST m=+39.025779834"
+time="2026-04-20T12:01:44+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:44.212031 +0100 BST m=+38.988782709" connectionDb=intercom_investigations connectionID=16 error="nothing to commit" queryTime="2026-04-20 12:01:44.560604 +0100 BST m=+39.337351334"
+time="2026-04-20T12:01:44+01:00" level=info msg=ConnectionClosed connectionID=16
+time="2026-04-20T12:01:44+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=18
+time="2026-04-20T12:01:44+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=17
+time="2026-04-20T12:01:44+01:00" level=info msg=ConnectionClosed connectionID=17
+time="2026-04-20T12:01:44+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=19
+time="2026-04-20T12:01:44+01:00" level=info msg=ConnectionClosed connectionID=18
+time="2026-04-20T12:01:44+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:44.861825 +0100 BST m=+39.638568459" connectionDb=intercom_investigations connectionID=19 error="nothing to commit" queryTime="2026-04-20 12:01:44.888682 +0100 BST m=+39.665424751"
+time="2026-04-20T12:01:45+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:44.861825 +0100 BST m=+39.638568459" connectionDb=intercom_investigations connectionID=19 error="nothing to commit" queryTime="2026-04-20 12:01:45.058998 +0100 BST m=+39.835738792"
+time="2026-04-20T12:01:45+01:00" level=info msg=ConnectionClosed connectionID=19
+time="2026-04-20T12:01:45+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=20
+time="2026-04-20T12:01:45+01:00" level=info msg=ConnectionClosed connectionID=20
+time="2026-04-20T12:01:45+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=21
+time="2026-04-20T12:01:45+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=22
+time="2026-04-20T12:01:45+01:00" level=info msg=ConnectionClosed connectionID=21
+time="2026-04-20T12:01:45+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:45.174105 +0100 BST m=+39.950843792" connectionDb=intercom_investigations connectionID=22 error="nothing to commit" queryTime="2026-04-20 12:01:45.182683 +0100 BST m=+39.959422042"
+time="2026-04-20T12:01:45+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:45.174105 +0100 BST m=+39.950843792" connectionDb=intercom_investigations connectionID=22 error="nothing to commit" queryTime="2026-04-20 12:01:45.263082 +0100 BST m=+40.039819084"
+time="2026-04-20T12:01:45+01:00" level=info msg=ConnectionClosed connectionID=22
+time="2026-04-20T12:01:45+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=23
+time="2026-04-20T12:01:45+01:00" level=info msg=ConnectionClosed connectionID=23
+time="2026-04-20T12:01:45+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=24
+time="2026-04-20T12:01:45+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=25
+time="2026-04-20T12:01:45+01:00" level=info msg=ConnectionClosed connectionID=24
+time="2026-04-20T12:01:45+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:45.38013 +0100 BST m=+40.156866251" connectionDb=intercom_investigations connectionID=25 error="nothing to commit" queryTime="2026-04-20 12:01:45.387783 +0100 BST m=+40.164518751"
+time="2026-04-20T12:01:45+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:45.38013 +0100 BST m=+40.156866251" connectionDb=intercom_investigations connectionID=25 error="nothing to commit" queryTime="2026-04-20 12:01:45.476889 +0100 BST m=+40.253623792"
+time="2026-04-20T12:01:45+01:00" level=info msg=ConnectionClosed connectionID=25
+time="2026-04-20T12:01:45+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=26
+time="2026-04-20T12:01:45+01:00" level=info msg=ConnectionClosed connectionID=26
+time="2026-04-20T12:01:45+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=27
+time="2026-04-20T12:01:45+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=28
+time="2026-04-20T12:01:45+01:00" level=info msg=ConnectionClosed connectionID=27
+time="2026-04-20T12:01:45+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:45.562121 +0100 BST m=+40.338854376" connectionDb=intercom_investigations connectionID=28 error="nothing to commit" queryTime="2026-04-20 12:01:45.568511 +0100 BST m=+40.345244417"
+time="2026-04-20T12:01:45+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:45.562121 +0100 BST m=+40.338854376" connectionDb=intercom_investigations connectionID=28 error="nothing to commit" queryTime="2026-04-20 12:01:45.637889 +0100 BST m=+40.414621876"
+time="2026-04-20T12:01:45+01:00" level=info msg=ConnectionClosed connectionID=28
+time="2026-04-20T12:01:45+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=29
+time="2026-04-20T12:01:45+01:00" level=info msg=ConnectionClosed connectionID=29
+time="2026-04-20T12:01:45+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=30
+time="2026-04-20T12:01:45+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=31
+time="2026-04-20T12:01:45+01:00" level=info msg=ConnectionClosed connectionID=30
+time="2026-04-20T12:01:45+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:45.73907 +0100 BST m=+40.515801001" connectionDb=intercom_investigations connectionID=31 error="nothing to commit" queryTime="2026-04-20 12:01:45.746311 +0100 BST m=+40.523041542"
+time="2026-04-20T12:01:46+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:45.73907 +0100 BST m=+40.515801001" connectionDb=intercom_investigations connectionID=31 error="nothing to commit" queryTime="2026-04-20 12:01:46.062603 +0100 BST m=+40.839330209"
+time="2026-04-20T12:01:46+01:00" level=info msg=ConnectionClosed connectionID=31
+time="2026-04-20T12:01:46+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=32
+time="2026-04-20T12:01:46+01:00" level=info msg=ConnectionClosed connectionID=32
+time="2026-04-20T12:01:46+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=33
+time="2026-04-20T12:01:46+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=34
+time="2026-04-20T12:01:46+01:00" level=info msg=ConnectionClosed connectionID=33
+time="2026-04-20T12:01:46+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:46.507209 +0100 BST m=+41.283929917" connectionDb=intercom_investigations connectionID=34 error="nothing to commit" queryTime="2026-04-20 12:01:46.547992 +0100 BST m=+41.324712459"
+time="2026-04-20T12:01:46+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:46.507209 +0100 BST m=+41.283929917" connectionDb=intercom_investigations connectionID=34 error="nothing to commit" queryTime="2026-04-20 12:01:46.918871 +0100 BST m=+41.695586334"
+time="2026-04-20T12:01:47+01:00" level=info msg=ConnectionClosed connectionID=34
+time="2026-04-20T12:01:47+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=36
+time="2026-04-20T12:01:47+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=35
+time="2026-04-20T12:01:47+01:00" level=info msg=ConnectionClosed connectionID=35
+time="2026-04-20T12:01:47+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=37
+time="2026-04-20T12:01:47+01:00" level=info msg=ConnectionClosed connectionID=36
+time="2026-04-20T12:01:47+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:47.286565 +0100 BST m=+42.063274459" connectionDb=intercom_investigations connectionID=37 error="nothing to commit" queryTime="2026-04-20 12:01:47.321538 +0100 BST m=+42.098247209"
+time="2026-04-20T12:01:47+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:01:47.286565 +0100 BST m=+42.063274459" connectionDb=intercom_investigations connectionID=37 error="nothing to commit" queryTime="2026-04-20 12:01:47.656522 +0100 BST m=+42.433226709"
+time="2026-04-20T12:01:47+01:00" level=info msg=ConnectionClosed connectionID=37
+time="2026-04-20T12:02:03+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=38
+time="2026-04-20T12:02:03+01:00" level=info msg=ConnectionClosed connectionID=38
+time="2026-04-20T12:02:03+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=39
+time="2026-04-20T12:02:03+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=40
+time="2026-04-20T12:02:03+01:00" level=info msg=ConnectionClosed connectionID=39
+time="2026-04-20T12:02:03+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:02:03.613378 +0100 BST m=+58.389864376" connectionDb=intercom_investigations connectionID=40 error="nothing to commit" queryTime="2026-04-20 12:02:03.624882 +0100 BST m=+58.401367876"
+time="2026-04-20T12:02:04+01:00" level=info msg=ConnectionClosed connectionID=40
+time="2026-04-20T12:02:37+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=41
+time="2026-04-20T12:02:37+01:00" level=info msg=ConnectionClosed connectionID=41
+time="2026-04-20T12:02:37+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=42
+time="2026-04-20T12:02:37+01:00" level=info msg=NewConnection DisableClientMultiStatements=false connectionID=43
+time="2026-04-20T12:02:37+01:00" level=info msg=ConnectionClosed connectionID=42
+time="2026-04-20T12:02:37+01:00" level=warning msg="error running query" connectTime="2026-04-20 12:02:37.671274 +0100 BST m=+92.447294209" connectionDb=intercom_investigations connectionID=43 error="nothing to commit" queryTime="2026-04-20 12:02:37.689352 +0100 BST m=+92.465372292"
+time="2026-04-20T12:02:38+01:00" level=info msg=ConnectionClosed connectionID=43
