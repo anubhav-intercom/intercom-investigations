@@ -18,3 +18,28 @@
 {"actor":"anubhav-intercom","comment":null,"created_at":"2026-03-15T23:56:37Z","event_type":"updated","id":18,"issue_id":"intercom-investigations-ipr","new_value":"{\"notes\":\"Generated 54 test cases across 7 groups (TG, PR, AI, AU, DB, XS, DA). 30 T1, 18 T2, 6 T3 (blocked).\"}","old_value":"{\"id\":\"intercom-investigations-ipr\",\"title\":\"Phase 1: Test Generation\",\"status\":\"in_progress\",\"priority\":2,\"issue_type\":\"task\",\"assignee\":\"anubhav-intercom\",\"owner\":\"anubhav.bohidar@intercom.io\",\"created_at\":\"2026-03-15T23:53:57Z\",\"created_by\":\"anubhav-intercom\",\"updated_at\":\"2026-03-15T23:56:37Z\"}"}
 {"actor":"anubhav-intercom","comment":null,"created_at":"2026-03-15T23:56:37Z","event_type":"closed","id":19,"issue_id":"intercom-investigations-ipr","new_value":"Completed: 54 tests generated","old_value":""}
 {"actor":"anubhav-intercom","comment":null,"created_at":"2026-03-16T01:17:25Z","event_type":"closed","id":20,"issue_id":"intercom-investigations-7v0","new_value":"Completed: 49 pass, 0 fail, 5 blocked","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-03-16T01:17:27Z","event_type":"closed","id":21,"issue_id":"intercom-investigations-aj4","new_value":"Completed: reporting done, evidence committed","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-03-16T01:17:27Z","event_type":"closed","id":22,"issue_id":"intercom-investigations-09p","new_value":"QA complete: 100% pass rate, 54 tests","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:31:04Z","event_type":"created","id":23,"issue_id":"intercom-investigations-rsx","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:31:21Z","event_type":"created","id":24,"issue_id":"intercom-investigations-rsx.1","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:31:21Z","event_type":"created","id":25,"issue_id":"intercom-investigations-rsx.2","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:31:21Z","event_type":"created","id":26,"issue_id":"intercom-investigations-rsx.3","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:31:21Z","event_type":"created","id":27,"issue_id":"intercom-investigations-rsx.4","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:31:21Z","event_type":"created","id":28,"issue_id":"intercom-investigations-rsx.5","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:31:22Z","event_type":"created","id":29,"issue_id":"intercom-investigations-rsx.6","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:31:22Z","event_type":"created","id":30,"issue_id":"intercom-investigations-rsx.7","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:31:22Z","event_type":"created","id":31,"issue_id":"intercom-investigations-rsx.8","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:31:22Z","event_type":"created","id":32,"issue_id":"intercom-investigations-rsx.9","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:31:22Z","event_type":"created","id":33,"issue_id":"intercom-investigations-rsx.10","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:41:38Z","event_type":"created","id":34,"issue_id":"intercom-investigations-cyw","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:41:49Z","event_type":"created","id":35,"issue_id":"intercom-investigations-cyw.1","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:41:49Z","event_type":"created","id":36,"issue_id":"intercom-investigations-cyw.2","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:41:49Z","event_type":"created","id":37,"issue_id":"intercom-investigations-cyw.3","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:41:49Z","event_type":"created","id":38,"issue_id":"intercom-investigations-cyw.4","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:41:50Z","event_type":"created","id":39,"issue_id":"intercom-investigations-cyw.5","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:41:50Z","event_type":"created","id":40,"issue_id":"intercom-investigations-cyw.6","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:41:50Z","event_type":"created","id":41,"issue_id":"intercom-investigations-cyw.7","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:41:50Z","event_type":"created","id":42,"issue_id":"intercom-investigations-cyw.8","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:41:50Z","event_type":"created","id":43,"issue_id":"intercom-investigations-cyw.9","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-15T10:41:51Z","event_type":"created","id":44,"issue_id":"intercom-investigations-cyw.10","new_value":"","old_value":""}
+{"actor":"anubhav-intercom","comment":null,"created_at":"2026-04-20T12:01:05Z","event_type":"created","id":45,"issue_id":"intercom-investigations-4tt","new_value":"","old_value":""}
